@@ -1,1 +1,2 @@
-# collaborative-coding-and-open-source-practice
+# gitDemo
+this is a demo class for git and github
